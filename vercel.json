@@ -12,5 +12,10 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ]
+  ],
+  "functions": {
+    "api": {
+      "runtime": "python3.9.13"
+    }
+  }
 }
